@@ -1,1 +1,1 @@
-pizza, burritos, chilli, corn, beans
+*pizz *burritos *chilli *corn *beans
